@@ -1,0 +1,15 @@
+.square {
+    width: 400px;
+    height: 100px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .square p {
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+  }
+  
